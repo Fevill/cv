@@ -5,9 +5,12 @@
             {
                 "Categorie": "Langage de programmation",
                 "CompetenceListe": [
+                    "JAVASCRIPT",
                     "JAVA",
                     "PHP",
-                    "C#"
+                    "C#",
+                    "C/C++",
+                    "Assembleur"
                 ]
             },
             {
@@ -33,6 +36,9 @@
             {
                 "Categorie": "Technologie",
                 "CompetenceListe": [
+                    "Webmethods",
+                    "TIBCO ESB",
+                    "TIBCO MDM",
                     "J2EE",
                     "Spring",
                     "Ionic2"
@@ -41,17 +47,30 @@
             {
                 "Categorie": "Base de donnees",
                 "CompetenceListe": [
+                    "Access Database",
                     "Oracle",
                     "MySql",
                     "SqlServeur"
                 ]
             },
             {
+                "Categorie": "Les outils",
+                "CompetenceListe": [
+                    "Git",
+                    "Tomcat",
+                    "Jboss",
+                    "Oracle sqldevelopper",
+                    "Putty",
+                    "filezilla"
+                ]
+            },
+            {
                 "Categorie": "Environnement de developpement",
                 "CompetenceListe": [
                     "Eclipse",
-                    "Netbeans",
-                    "Visual Studio"
+                    "Visual Studio",
+                    "Visual Studio code",
+                    "Netbeans"
                 ]
             },
             {
@@ -64,8 +83,32 @@
         ],
         "Experiences": [
             {
+                "Duree": "3 mois",
+                "Descriptions": "<span class='newligne'>- Formation sur du Webmethods</span><span class='newligne'>- TMA projets client\n- </span><span class='newligne'>- Utilisation de Log Kibana</span>",
+                "Periode": "11/2017 - Aujourd'hui",
+                "Sujet": "Developpement client lourd C# (WPF), SQL Serveur"
+            },
+            {
+                "Duree": "12 mois",
+                "Descriptions": "A.P.P.I. Analyse, conception et developpement de logiciel à integrer dans le système informatique de supervision Panorama (Codra).",
+                "Periode": "10/2017 - 10/2017",
+                "Sujet": "Developpement client lourd C# (WPF), SQL Serveur"
+            },
+            {
+                "Duree": "6 mois",
+                "Descriptions": "A.P.P.I. Analyse, conception et developpement de logiciel à integrer dans le système informatique de supervision Panorama (Codra).",
+                "Periode": "03/2017 - 09/2017",
+                "Sujet": "Developpement client lourd C# (WPF), SQL Serveur"
+            },
+            {
+                "Duree": "4 mois",
+                "Descriptions": "A.P.P.I. Analyse, conception et developpement de logiciel à integrer dans le système informatique de supervision Panorama (Codra).",
+                "Periode": "01/2016 - 04/2016",
+                "Sujet": "Developpement client lourd C# (WPF), SQL Serveur"
+            },
+            {
                 "Duree": "8 mois",
-                "Descriptions": " A.P.P.I. Analyse, conception et developpement de logiciel à integrer dans le système informatique de supervision Panorama (Codra).",
+                "Descriptions": "A.P.P.I. Analyse, conception et developpement de logiciel à integrer dans le système informatique de supervision Panorama (Codra).",
                 "Periode": "09/2015 - 05/2016",
                 "Sujet": "Developpement client lourd C# (WPF), SQL Serveur"
             },
@@ -85,7 +128,7 @@
         "Formations": [
             {
                 "Annee": "2016 - 2017",
-                "Annee_obtention":"2017",
+                "Annee_obtention": "2017",
                 "Formation": "Competences complementaires en informatique",
                 "NiveauScolaire": "MASTER 2",
                 "Pays": "France",
@@ -93,7 +136,7 @@
             },
             {
                 "Annee": "2013 - 2016",
-                "Annee_obtention":"2016",
+                "Annee_obtention": "2016",
                 "Formation": "Electronique Informatique Industrielle et Instrumentation",
                 "NiveauScolaire": "MASTER PROFESSIONNEL",
                 "Pays": "France",
@@ -101,7 +144,7 @@
             },
             {
                 "Annee": "2012 - 2013",
-                "Annee_obtention":"2013",
+                "Annee_obtention": "2013",
                 "Formation": "Techniques des Systèmes Electroniques et Informatiques",
                 "NiveauScolaire": "LICENCE PROFESSIONNELLE",
                 "Pays": "France",
@@ -109,7 +152,7 @@
             },
             {
                 "Annee": "2010 - 2012",
-                "Annee_obtention":"2012",
+                "Annee_obtention": "2012",
                 "Formation": "Electronique Informatique Industrielle",
                 "NiveauScolaire": "DUT",
                 "Pays": "France",
