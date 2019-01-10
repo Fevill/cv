@@ -84,7 +84,7 @@
         "Experiences": [
             {
                 "Duree": "3 mois",
-                "Descriptions": "<span class='newligne'>- Formation sur du Webmethods</span><span class='newligne'>- TMA projets client\n- </span><span class='newligne'>- Utilisation de Log Kibana</span>",
+                "Descriptions": "<span class='newligne'>- Formation sur du Webmethods</br> \n<span class='newligne'>- TMA projets client\n- </span><span class='newligne'>- Utilisation de Log Kibana</span>",
                 "Periode": "11/2017 - Aujourd'hui",
                 "Sujet": "Developpement client lourd C# (WPF), SQL Serveur"
             },
